@@ -1,0 +1,19 @@
+{
+  "name": "Homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "milligram": "^1.3.0",
+    "mithril": "^1.1.6",
+    "node-polyglot": "^2.2.2",
+    "node-sass": "^4.7.2",
+    "normalize.css": "^8.0.0"
+  }
+}
